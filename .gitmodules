@@ -1,0 +1,3 @@
+[submodule "bbpretty"]
+	path = bbpretty
+	url = git@github.com:BuddyBuild/bbpretty.git
