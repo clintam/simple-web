@@ -1,0 +1,2 @@
+failure:
+	echo 'crash' && false
